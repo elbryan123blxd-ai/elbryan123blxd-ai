@@ -1,16 +1,20 @@
-## Hi there 👋
+### ¡Hola! Soy Bryan 👋
 
-<!--
-**elbryan123blxd-ai/elbryan123blxd-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante apasionado por la infraestructura en la nube, el desarrollo backend y la automatización. Actualmente estoy construyendo una sólida base técnica orientada al mundo Cloud y DevOps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mi Stack Tecnológico y Herramientas
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Linux
+* **Desarrollo:** Python, JavaScript, Git / GitHub
+* **Enfoque actual:** Automatización de despliegues, infraestructura como código (IaC) y portales backend.
+
+---
+
+### 📊 Mis Metas
+* Dominar el ecosistema de contenedores y automatización.
+* Obtener certificaciones oficiales en la nube (como AWS Cloud Practitioner).
+* Aportar valor en un rol inicial de Cloud o DevOps.
+
+📫 **¿Cómo contactarme o ver mi trabajo?**
+* [LinkedIn](https://www.linkedin.com/in/bryan-urquizo-4020143b8/)
