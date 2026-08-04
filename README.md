@@ -23,13 +23,6 @@ Estudiante apasionado por la infraestructura en la nube, el desarrollo backend y
 
 ---
 
-### 📊 Estadísticas y Actividad
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elbryan123blxd-ai&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 
 ### 📫 ¿Cómo contactarme o ver mi trabajo?
 
