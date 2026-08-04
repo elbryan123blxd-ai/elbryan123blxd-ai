@@ -26,4 +26,5 @@ Estudiante apasionado por la infraestructura en la nube, el desarrollo backend y
 
 ### 📫 ¿Cómo contactarme o ver mi trabajo?
 
-* **LinkedIn:** [[Tu Nombre / Perfil](https://tu-enlace-de-linkedin)](https://www.linkedin.com/in/bryan-urquizo/)
+* **LinkedIn:** https://www.linkedin.com/in/bryan-urquizo/
+
