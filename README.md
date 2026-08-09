@@ -28,3 +28,8 @@ Estudiante apasionado por la infraestructura en la nube, el desarrollo backend y
 
 * **LinkedIn:** https://www.linkedin.com/in/bryan-urquizo/
 
+### Repositorios donde muestro mis avanzes y conocimientos en el mundo de cloud/devops:
+* AWS y automatizacion con terraform: https://github.com/elbryan123blxd-ai/aws-cloud-infrastructure
+* Contenedores y kubernetes: https://github.com/elbryan123blxd-ai/devops-docker-kubernetes-labs
+* Automatizacion con Circle CI: https://github.com/elbryan123blxd-ai/CI-CD-pipelines-circleci
+* Proyecto DevOps/Cloud ( proximamente ) : https://github.com/elbryan123blxd-ai/Proyecto-DevOps
