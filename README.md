@@ -9,7 +9,7 @@ Estudiante apasionado por la infraestructura en la nube, el desarrollo backend y
 [![Cloud & DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux&perline=5)](https://skillicons.dev)
 [![Desarrollo](https://skillicons.dev/icons?i=py,js,git,github&perline=4)](https://skillicons.dev)
 
-* **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Linux.
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Linux, circle ci
 * **Desarrollo:** Python, JavaScript, Git / GitHub.
 * **Enfoque actual:** Automatización de despliegues, infraestructura como código (IaC) y portales backend.
 
