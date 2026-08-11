@@ -7,9 +7,10 @@ Estudiante apasionado por la infraestructura en la nube, el desarrollo backend y
 ### 🚀 Mi Stack Tecnológico y Herramientas
 
 [![Cloud & DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux&perline=5)](https://skillicons.dev)
+![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 [![Desarrollo](https://skillicons.dev/icons?i=py,js,git,github&perline=4)](https://skillicons.dev)
 
-* **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Linux, circle ci
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Linux, CircleCI
 * **Desarrollo:** Python, JavaScript, Git / GitHub.
 * **Enfoque actual:** Automatización de despliegues, infraestructura como código (IaC) y portales backend.
 
